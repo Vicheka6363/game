@@ -1,5 +1,5 @@
 {
-    "name": "game/group13",
+    "name": "vicheka6363/group13",
     "description": "This is RSP game",
     "authors": [
         {
@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "game\\RPS\\RPSServiceProvider"
+                "vicheka6363\\RPS\\RPSServiceProvider"
             ]
         }
     }
